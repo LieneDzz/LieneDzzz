@@ -1,3 +1,3 @@
 # LieneDzzz
-Hi There!
+### Hi there
 I'm learning 
